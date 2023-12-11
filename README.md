@@ -1,6 +1,6 @@
 # Diabetes Prediction System
 
-![Diabetes Prediction System](screenshot1.pngS)
+![Diabetes Prediction System](screenshot1.png)
 
 ## Overview
 
