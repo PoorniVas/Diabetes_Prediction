@@ -10,3 +10,4 @@ The Diabetes Prediction System is a machine learning-based application that pred
 - **User-Friendly Interface:** Easy-to-use web interface for data input and result display.
 - **Scalability:** Efficiently handles predictions for various users.
 
+![screenshot](screenshot1.png)
